@@ -18,6 +18,7 @@ const config = {
       },
     },
     extend: {
+      // mainColor: "#121212",
       keyframes: {
         "accordion-down": {
           from: { height: "0" },
